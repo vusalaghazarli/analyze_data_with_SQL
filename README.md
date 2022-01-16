@@ -1,0 +1,2 @@
+# analyze_data_with_SQL
+Relational databases store data in tables. Tables can grow large and have a multitude of columns and records. Relational database management systems (RDBMS) use SQL (and different types of SQL) to access and manage the data in these large tables. The type of SQL will be used to create and connect to a database as RDBMS for this project. Then data manipulation and more complex queries will be made to access, create and update data stored in a database. 
